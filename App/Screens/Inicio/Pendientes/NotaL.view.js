@@ -2,7 +2,7 @@ import * as React from 'react'
 import {TouchableOpacity, Alert} from 'react-native'
 import {Container, Content, View, ListItem, Left, Right, Icon, Text, Card, Button} from 'native-base'
 //new
-import NotasN from '../../../Funciones/NotasN';
+//import NotasN from '../../../Funciones/NotasN';
 
 
 export default function NotaL(param){
